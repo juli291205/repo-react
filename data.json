@@ -1,0 +1,32 @@
+[   
+    {
+        "id": 5,
+        "nombre": "casco 5",
+        "precio" : 150,
+        "cantidad": 8
+    },
+    {
+        "id": 6,
+        "nombre": "casco 6",
+        "precio" : 150,
+        "cantidad": 8
+    },
+    {
+        "id": 7,
+        "nombre": "casco 7",
+        "precio" : 150,
+        "cantidad": 8
+    },
+    {
+        "id": 8,
+        "nombre": "casco 8",
+        "precio" : 150,
+        "cantidad": 8
+    },
+    {
+        "id": 9,
+        "nombre": "casco 9",
+        "precio" : 150,
+        "cantidad": 8
+    }
+]
